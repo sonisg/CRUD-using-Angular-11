@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "abc",
+      "mobile": "123",
+      "email": "aw@g",
+      "password": "1",
+      "id": 3
+    },
+    {
+      "name": "Shrwan Kumar Gupta 1 1",
+      "mobile": "12345",
+      "email": "soniguptasg1312@gmail.com",
+      "password": "345644",
+      "id": 4
+    }
+  ]
+}
